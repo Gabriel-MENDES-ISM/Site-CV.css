@@ -1,11 +1,13 @@
 <html>
-<head>
-<style>
-h1 {
-  text-align: center;
+    <head>
+    <style>
+    h1 {
+    text-align: center;
 }
 </style>
-</head>
+        <meta charset="utf-8" />
+        <title>Site CV</title>   <!-- https://gabriel-mendes-ism.github.io/Site-CV/ -->
+    </head>
 <body>
 
 <h1>FICHE DE RENSEIGNEMENTS</h1>
